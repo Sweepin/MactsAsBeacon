@@ -11,10 +11,26 @@ import Foundation
 struct IBeacon {
     static let advertisementKey = "kCBAdvDataAppleBeaconKey"
     
-    static let defaultUUID = "B0702880-A295-A8AB-F734-031A98A512DE"
-    static let defaultMajor = "2"
-    static let defaultMinor = "1000"
+    // Beacon Foch Accueil
+    
+    static let defaultUUID = "8808EC6F-9771-405B-9229-6B82ABEC01F5"
+    static let defaultMajor = "6"
+    static let defaultMinor = "0"
     static let defaultPower = "-58"
+
+    // Beacon Foch Elevator Principal 0
+    
+    //    static let defaultUUID = "8808EC6F-9771-405B-9229-6B82ABEC01F5"
+    //    static let defaultMajor = "6"
+    //    static let defaultMinor = "1"
+    //    static let defaultPower = "-58"
+    
+    // Beacon Foch Elevator Principal 1
+    
+    //    static let defaultUUID = "8808EC6F-9771-405B-9229-6B82ABEC01F5"
+    //    static let defaultMajor = "6"
+    //    static let defaultMinor = "2"
+    //    static let defaultPower = "-58"
     
     var uuid: String
     var major: String

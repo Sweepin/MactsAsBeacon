@@ -156,7 +156,7 @@
 				ORGANIZATIONNAME = "Charismatic Megafauna Ltd";
 				TargetAttributes = {
 					225DFABD1830E95A006EA256 = {
-						DevelopmentTeam = 2L6VB82CR7;
+						DevelopmentTeam = E6B4L73UU6;
 						LastSwiftMigration = 0920;
 						ProvisioningStyle = Automatic;
 					};
@@ -334,13 +334,13 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 2L6VB82CR7;
+				DEVELOPMENT_TEAM = E6B4L73UU6;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ActsAsBeacon/MactsAsBeacon-Prefix.pch";
 				INFOPLIST_FILE = "ActsAsBeacon/MactsAsBeacon-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
-				PRODUCT_BUNDLE_IDENTIFIER = de.duckett.MactsAsBeacon;
+				PRODUCT_BUNDLE_IDENTIFIER = com.proximities.MacsAsBeacon;
 				PRODUCT_NAME = MactsAsBeacon;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "";
@@ -359,13 +359,13 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 2L6VB82CR7;
+				DEVELOPMENT_TEAM = E6B4L73UU6;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ActsAsBeacon/MactsAsBeacon-Prefix.pch";
 				INFOPLIST_FILE = "ActsAsBeacon/MactsAsBeacon-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
-				PRODUCT_BUNDLE_IDENTIFIER = de.duckett.MactsAsBeacon;
+				PRODUCT_BUNDLE_IDENTIFIER = com.proximities.MacsAsBeacon;
 				PRODUCT_NAME = MactsAsBeacon;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "";
